@@ -11,5 +11,5 @@ public class UpdateOrderStatusRequest {
     private String notes;
     private String deliverySignatureUrl;
     private String deliveryPhotoUrl;
-    private String deliveryNotes;git
+    private String deliveryNotes;
 }
