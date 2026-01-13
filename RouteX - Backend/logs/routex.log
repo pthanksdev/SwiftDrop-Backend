@@ -9945,3 +9945,6 @@ Caused by: java.sql.SQLException: Access denied for user 'root'@'localhost' (usi
 	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:44) ~[hibernate-core-7.2.0.Final.jar:7.2.0.Final]
 	... 132 common frames omitted
 
+2026-01-13T20:31:17.856+01:00  INFO 7232 --- [SwiftDrop] [restartedMain] com.delivery.RouteX.RouteXApplication    : Starting RouteXApplication using Java 17.0.12 with PID 7232 (C:\Users\Testy\Documents\Projects\RouteX - Delivery Tracking Website\RouteX - Backend\target\classes started by Testy in C:\Users\Testy\Documents\Projects\RouteX - Delivery Tracking Website\RouteX - Backend)
+2026-01-13T20:31:17.858+01:00 DEBUG 7232 --- [SwiftDrop] [restartedMain] com.delivery.RouteX.RouteXApplication    : Running with Spring Boot v4.0.1, Spring v7.0.2
+2026-01-13T20:31:17.858+01:00  INFO 7232 --- [SwiftDrop] [restartedMain] com.delivery.RouteX.RouteXApplication    : No active profile set, falling back to 1 default profile: "default"
